@@ -1,0 +1,8 @@
+<html>
+	<head>
+	</head>
+	<body bgcolor="#DDFAFE" text="black">
+		<img src="cabeceraolas.jpg" id="estirada" style="position: absolute; left: 0; width: 100%; height: 20%" >
+		<h3 align="center">M&Uacute;SICA PARA ESTUDIAR</h3>
+	<body>
+</html>
